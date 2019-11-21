@@ -9,6 +9,7 @@ This is the resources folder for Return 0 team.
 # Back-end
 ## Java
 ## Computer Network
+* [Client-Server Overview](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
 ## Database
 
 # Coding Style Guides
