@@ -24,6 +24,7 @@ This is the resources folder for Return 0 team.
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Google developer Documentation Style Guide](https://developers.google.com/style)
 
-# Others
+# Developement Methodology
+[Agile Web Development](https://www.hudsonintegrated.com/resources/the-shift-to-agile-web-development)
 [Markdown Resource](https://guides.github.com/features/mastering-markdown/)
 [Writing READMEs | Udacity](https://www.udacity.com/course/writing-readmes--ud777)
