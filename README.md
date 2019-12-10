@@ -35,3 +35,4 @@ This is the resources folder for Return 0 team.
 
 # Connection
 * [Connect React with MySQL](https://dev.to/kmaryam27/step-by-step-react-nodejs-and-mysql-simple-full-stack-application-2018-part-4-2bhg)
+* [Nodejs as server](https://stackoverflow.com/questions/41332643/sending-data-to-database-in-react-js-web-application/41332811)
