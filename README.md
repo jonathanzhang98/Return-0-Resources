@@ -29,9 +29,9 @@ This is the resources folder for Return 0 team.
 * [Google developer Documentation Style Guide](https://developers.google.com/style)
 
 # Developement Methodology
-[Agile Web Development](https://www.hudsonintegrated.com/resources/the-shift-to-agile-web-development)
-[Markdown Resource](https://guides.github.com/features/mastering-markdown/)
-[Writing READMEs | Udacity](https://www.udacity.com/course/writing-readmes--ud777)
+* [Agile Web Development](https://www.hudsonintegrated.com/resources/the-shift-to-agile-web-development)
+* [Markdown Resource](https://guides.github.com/features/mastering-markdown/)
+* [Writing READMEs | Udacity](https://www.udacity.com/course/writing-readmes--ud777)
 
 # Connection
-[Connect React with MySQL](https://dev.to/kmaryam27/step-by-step-react-nodejs-and-mysql-simple-full-stack-application-2018-part-4-2bhg)
+* [Connect React with MySQL](https://dev.to/kmaryam27/step-by-step-react-nodejs-and-mysql-simple-full-stack-application-2018-part-4-2bhg)
