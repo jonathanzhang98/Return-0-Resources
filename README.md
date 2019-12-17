@@ -5,6 +5,7 @@ This is the resources folder for Return 0 team.
 ## HTML
 ## CSS
 ## JavaScript
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 # Back-end
 ## Java
